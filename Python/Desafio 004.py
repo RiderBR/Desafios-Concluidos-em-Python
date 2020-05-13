@@ -1,3 +1,4 @@
+#RiderBR-TEKUBR
 var = input('Digite algo: ')
 print('O tipo primitivo desse valor é ', type(var))
 print('Só tem espaços? ', var.isspace())
