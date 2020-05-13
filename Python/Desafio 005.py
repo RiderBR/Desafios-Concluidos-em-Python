@@ -1,3 +1,4 @@
+#RiderBR-TEKUBR
 num = int(input("Digite um número: "))
 num1 = num - 1
 num2 = num + 1
